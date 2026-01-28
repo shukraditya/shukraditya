@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shukraditya" alt="shukraditya" /></a> </p>
 
-- 🔭 I’m currently working on **tinder for papers**
+- 🔭 I’m currently working on **walmart-wispr**
 
-- 🌱 I’m currently learning **react/pytorch**
+- 🌱 I’m currently learning mechanistic interpretability.
 
 - 👯 I’m looking to collaborate on **anything related to ml/dl**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shukra12bose@gmail.com**
 
-- ⚡ Fun fact **I think im trying to get cooked**
+- ⚡ Fun fact **I love the Markovian assumption: feels like the very truth of the universe and live as we see it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
