@@ -1,2 +1,2 @@
 I code sometimes.
-I write sometimes at shukraditya.in
+I write sometimes at [shukraditya.in]
